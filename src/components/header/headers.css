@@ -1,0 +1,17 @@
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', Courier, monospace;
+    align-items: center;
+    padding: 1rem 3rem;
+    color: #f8f9fa;
+    background: #2736da;
+}
+.header-item{
+    margin-right: 1rem;
+    font-size: 1.3rem;
+}
+.header-item > a{
+    text-decoration: none;
+    color: #f8f9fa;
+}
